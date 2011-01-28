@@ -1,4 +1,4 @@
-#!/usr/local/bin/php4 -q
+#!/usr/bin/php -q
 <?php
 /*
 
